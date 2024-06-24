@@ -36,7 +36,7 @@ going to walk through how to create a list of things marked up with HTML.
 In your terminal, while still inside of this labs directory, create a new file
 called `my_list.txt` by running `touch my_list.txt`. The file extension suggests
 to humans and operating systems that it contains text. Open the file in VS Code
-by typing `code my_list.txt`; you will do all editing for this lesson in VS
+by typing `code my_list.txt`; you will do all editing for this lesson in VS.
 Code.
 
 Below is a collection of plant names.
